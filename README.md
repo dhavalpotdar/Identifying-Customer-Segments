@@ -8,4 +8,4 @@ to identify the group of people that could be potential new customers to the com
 As part of the agreement with Avarto, the data could not be provided publicly here. 
 
 ## Code
-The IPython Notebook with the code and visualizations can be viewed (here)[https://nbviewer.jupyter.org/github/dhavalpotdar/Identifying-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb].
+The IPython Notebook with the code and visualizations can be viewed [here](https://nbviewer.jupyter.org/github/dhavalpotdar/Identifying-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb).
